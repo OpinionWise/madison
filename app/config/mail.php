@@ -5,8 +5,8 @@
 	}else{
 		//Laravel defaults
 		$smtp_config = array(
-			'host'=> 'smtp.mailgun.org',
-			'from' => array('address' => null, 'name' => null),
+			'host'=> '127.0.0.1:25',
+			'from' => array('address' => 'oscar@ourhousing.org', 'name' => 'Oscar' ),
 			'username' => null,
 			'password' => null
 		);
