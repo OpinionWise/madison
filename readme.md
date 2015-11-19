@@ -8,16 +8,22 @@ Madison is an open-source, collaborative document editing platform.  While Madis
 
 If you have questions about Madison, please open an issue and we will try to respond as soon as possible.
 
-Check out the [Madison Wiki](https://github.com/opengovfoundation/madison/wiki) or jump right into the [Madison Architecture](https://github.com/opengovfoundation/madison/wiki/madison-architecture/) for more information on the project.
+Check out the [Madison Documentation](https://github.com/opengovfoundation/madison/tree/master/docs) or jump right into the [Issue Log](https://github.com/opengovfoundation/madison/issues) for more information on the project.
+
+We have created a new, public mailing list for Madison development in Google Groups that you might be interested in subscribing to. We'll be using this as the official channel for all Madison developer news, announcements, and chat from now on. (Though bugs should still be reported here on Github.) You can sign up for it here:
+
+[Madison Mailing List](https://groups.google.com/forum/#!forum/madison-developers)
+
+We have also created a very short survey to find out more about the developers using Madison. Please take a few minutes to fill out this survey so we can better understand what your needs are and who is using Madison:
+
+[Madison Developers Survey](http://goo.gl/forms/BV4Flc0zx7)
 
 ## Installation
 
-Please take a look at the [Installation Instructions](install.md) for how to install Madison.
+Please take a look at the [Madison Documentation](https://github.com/opengovfoundation/madison/tree/master/docs) for how to install Madison.
 
 ## How to help
 
-Take a look at the [Project Notes](project.md)
-
-* Claim an issue, comment on an issue, or submit a pull request to resolve one
+* Open an issue, claim an issue, comment on an issue, or submit a pull request to resolve one
 * Document Madison - wiki documentation, installation guide, or docblocks internally
 * Clean up existing code - I'm sure we've taken shortcuts or added lazy code somewhere.
